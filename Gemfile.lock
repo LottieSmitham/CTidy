@@ -17,4 +17,5 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  motion-tidy!
+  motion-tidy 
+ 
